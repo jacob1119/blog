@@ -5,6 +5,7 @@ import "fmt"
 func main() {
 	fmt.Println("this is server !")
 
+	//router.test()
 	// 监听tcp
 	// 接收请求
 	// 路由映射
